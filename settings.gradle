@@ -1,0 +1,2 @@
+rootProject.name = "YtTV"
+include ':app'
